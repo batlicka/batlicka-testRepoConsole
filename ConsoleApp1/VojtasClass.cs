@@ -7,5 +7,6 @@ namespace ConsoleApp1
     class VojtasClass
     {
         //some note
+        //note 2
     }
 }
